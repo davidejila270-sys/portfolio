@@ -1,0 +1,49 @@
+{
+  "site": {
+    "title": "David Oiwona Ejila Portfolio",
+    "owner": "David Oiwona Ejila",
+    "role": "Computer Engineering Student",
+    "institution": "Ahmadu Bello University, Zaria",
+    "registrationNumber": "U21CO2032",
+    "state": "Benue State",
+    "email": "davidejila270@gmail.com",
+    "phone": "+2347037949186",
+    "level": "500 Level",
+    "hostedOn": "GitHub Pages",
+    "liveUrl": "https://davidejila.github.io/portfolio/"
+  },
+  "artifacts": [
+    {
+      "id": "art-001",
+      "title": "Personal Portfolio Website",
+      "date": "2026",
+      "category": "Academic",
+      "description": "Multi-page static portfolio built with HTML5, CSS3 and JSON for a Computer Engineering web assignment.",
+      "image_url": "assets/images/project-web.svg"
+    },
+    {
+      "id": "art-002",
+      "title": "Tiki Taka by Vacra",
+      "date": "Production credit",
+      "category": "Music Production",
+      "description": "Record produced as MarvelPro. Certified Diamond once by SNEP (France). MUSO.AI catalogue summary: about 274 million streams.",
+      "image_url": "assets/images/project-music.svg"
+    },
+    {
+      "id": "art-003",
+      "title": "Eze Ebube by Neon Adejo",
+      "date": "2021",
+      "category": "Music Production",
+      "description": "Original digital version produced as David Ejila. Other production credits exist and are not listed here.",
+      "image_url": "assets/images/project-music.svg"
+    },
+    {
+      "id": "art-004",
+      "title": "WAVS sample catalogue",
+      "date": "Ongoing",
+      "category": "Digital Products",
+      "description": "Original Afrobeat sample packs published as Marvel Pro on wavs.com.",
+      "image_url": "assets/images/project-pack.svg"
+    }
+  ]
+}
