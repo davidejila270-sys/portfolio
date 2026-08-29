@@ -13,10 +13,6 @@ FOLDER
   data/data.json
   Technical_Report.docx
 
-HOSTING
-Upload this whole folder to GitHub Pages, Netlify
-or a university host. The live link is created after upload.
-
 REPORT
 See Technical_Report.docx for design notes, JSON schema,
 HTTP/MIME notes and the CMS comparison.
